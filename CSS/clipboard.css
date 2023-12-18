@@ -66,7 +66,7 @@ a {
 
 .section-heading {
     color: var(--dark-gray-blue);
-    font-size: 2rem;
+    font-size: 2.25rem;
     margin-bottom: 1.125rem;
     font-weight: 600;
     text-align: center;
@@ -101,9 +101,9 @@ a {
 }
 
 .landing .landing-content h1 {
-    font-size: 2.25rem;
+    font-size: 2.5rem;
     margin: 0;
-    margin-bottom: 1em;
+    margin-bottom: 2rem;
     color: var(--dark-gray-blue);
 }
 
@@ -178,13 +178,13 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: calc(6.625rem - 25px);
+    gap: calc(6.625rem - 35px);
 }
 
 .snippets-content .image {
     flex-basis: 55%;
     position: relative;
-    right: 25px;
+    right: 35px;
 }
 
 .snippets-content img {
@@ -196,13 +196,13 @@ a {
 }
 
 .snippets-content .features .feature {
-    margin-bottom: 4.25rem;
+    margin-bottom: 4rem;
 }
 
 .snippets-content .features .feature  h3 {
     color: var(--dark-gray-blue);
-    font-size: 1.25rem;
-    margin-bottom: 1em;
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
 }
 
 .snippets-content .features .feature  p {
@@ -268,20 +268,19 @@ a {
 }
 
 .workflow-content .work-feat .image {
-    margin-bottom: 3rem;
-    height: 2.25rem;
+    margin-bottom: 2.25rem;
+    height: 3rem;
 
 }
 
 .workflow-content .work-feat .image img {
     max-height: 100%;
-
 }
 
 .workflow-content .work-feat h3 {
     color: var(--dark-gray-blue);
-    font-size: 1.25rem;
-    margin-bottom: 1.5em;
+    font-size: 1.6rem;
+    margin-bottom: 1.25rem;
 }
 
 .workflow-content .work-feat p {
